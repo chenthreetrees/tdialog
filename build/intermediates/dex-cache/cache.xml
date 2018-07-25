@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TDialog\TDialog\ttdialog\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3886eb2d87ea7d20741f93d632e6084b475854e7">
+        <dex dex="D:\TDialog\TDialog\app\build\intermediates\pre-dexed\debug\classes_42f1388ac109c28255dd69eaebcf2f4978540a7b.jar" />
+    </item>
+
+</items>

@@ -1,1 +1,1 @@
-# tdialog
+# TDialog

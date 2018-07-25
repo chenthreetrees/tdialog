@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp"
+    android:orientation="vertical"
+   >
+
+    <TextView
+        android:id="@+id/loading_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="加载框"
+        android:gravity="center"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/menu_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选项框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/alert_tv6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹出框"
+        android:gravity="center"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@color/colorAccent"
+        />
+
+</LinearLayout>
